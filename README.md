@@ -9,8 +9,6 @@ Welcome to the Car Price Predictor! This project uses machine learning to estima
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
